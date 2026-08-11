@@ -8,7 +8,7 @@ Welcome! This repository serves as a dedicated space for my independent technica
 
 The repository is organized by practical domains, version control workflows, and foundational reading:
 
-<details open>
+<details>
 <summary><b>Self-Directed Practice & Projects</b></summary>
 
 * **Algorithmic Problem Solving**
@@ -20,7 +20,7 @@ The repository is organized by practical domains, version control workflows, and
 
 </details>
 
-<details open>
+<details>
 <summary><b>Technical Reading List & Academic Papers</b></summary>
 
 ### 📚 Books
