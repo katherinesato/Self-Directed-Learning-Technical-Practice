@@ -6,11 +6,27 @@ Welcome! This repository serves as a dedicated space for my independent technica
 
 ## 📂 Repository Structure
 
+The repository is organized by practical domains, version control workflows, and foundational reading:
+
 <details open>
-  <summary><b>🔍 Click to expand/collapse folder overview</b></summary>
-  <br>
-  <pre><code>self-directed-learning/
-├── git-and-github/       # CLI workflows, branching strategies, and version control tests
-├── leetcode-practice/    # Data structures & algorithm problem-solving solutions
-└── personal-experiments/ # Independent coding tests and experiments (C, Python, Verilog)</code></pre>
+<summary><b>Self-Directed Practice & Projects</b></summary>
+
+* **Algorithmic Problem Solving**
+  * `leetcode-practice` — Solutions for data structures, algorithms, and code optimization problems
+* **Personal Projects**
+  * `personal-projects` — Custom coding tests, side projects, and hardware logic experiments (C, Python, Verilog)
+
+</details>
+
+<details>
+<summary><b>Technical Reading List</b></summary>
+
+* **Currently Reading**
+  * [ ] *Pro Git* — Scott Chacon & Ben Straub
+* **Upcoming Queue**
+  * [ ] *Structure and Interpretation of Computer Programs* — Harold Abelson
+* **Completed**
+  * [x] *The C Programming Language* — Brian W. Kernighan & Dennis M. Ritchie
+  * [x] *Clean Code* — Robert C. Martin
+
 </details>
